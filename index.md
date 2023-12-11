@@ -5,7 +5,7 @@ This is not a place for polished essays or original or innovative thoughts. This
 My thoughts can be random. There is no theme here; it's a random walk through... somewhere.
 
 ## My Stuff
-- ["Next Goal Wins" and Internal Family Systems](2023-12-10_next-goal-wins_ifs.md)
+- ["Next Goal Wins" and Internal Family Systems](2023-12/2023-12-10_next-goal-wins_ifs.md)
 
 ## Links I Like
 - [The Small Website Discoverability Crisis](https://www.marginalia.nu/log/19-website-discoverability-crisis/)
