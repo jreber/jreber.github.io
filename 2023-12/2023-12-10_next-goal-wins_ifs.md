@@ -1,4 +1,4 @@
-
+# "Next Goal Wins" and Internal Family Systems
 ## IFS
 I've been listening to the audiobook of [No Bad Parts](https://ifs-institute.com/nobadparts), by Richard Schwartz. He is the creator of Internal Family Systems (IFS).
 
