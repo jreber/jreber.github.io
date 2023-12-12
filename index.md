@@ -6,6 +6,7 @@ My thoughts can be random. There is no theme here; it's a random walk through...
 
 ## My Stuff
 - ["Next Goal Wins" and Internal Family Systems](2023-12/2023-12-10_next-goal-wins_ifs.md)
+- [2023-12-10_understanding-life-through-absence](2023-12/2023-12-10_understanding-life-through-absence.md)
 
 ## Links I Like
 - [The Small Website Discoverability Crisis](https://www.marginalia.nu/log/19-website-discoverability-crisis/)
