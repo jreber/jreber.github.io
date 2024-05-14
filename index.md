@@ -5,6 +5,7 @@ This is not a place for polished essays or original or innovative thoughts. This
 My thoughts can be random. There is no theme here; it's a random walk through... somewhere.
 
 ## My Stuff (Newest First)
+- [Number Theory Meets Group Theory](./2024-05/2024-05-13_number-theory.md)
 - [Life Advice](./2024-02/2024-02-07_life-advice.md)
 - [Contradictions Are Subjective](./2024-01/2024-01-28_contradictions-are-subjective.md)
 - [Contradictions](./2024-01/2024-01-15_contradictions.md)
