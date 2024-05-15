@@ -28,3 +28,5 @@ This example works because $3$ and $2$ are generators of the multiplicative grou
 So I am guaranteed that, as long as their exponents increase in lockstep, they will always be congruent. That is why $x = 3n$: every third power of $A = 3$ is congruent with a power of 2. (That's why $B = 2$ has exponent $y = n$; I picked this example to make one of the terms nice.)
 
 This example reveals some very intriguing properties of $k$; for example, in this case $k \in 5\mathbb{Z}^+$. Does that hold for other $p$? There are other more intriguing patterns as $n$ increases but I will write those up another time.
+
+_Further explored in [Exponentiated Natural Numbers $mod \space 5$](./2024-05-14_exp-nat-nums.md)_
